@@ -1,8 +1,6 @@
 package ru.alishev.springcourse;
 
-/**
- * @author Neil Alishev
- */
+
 public class MusicPlayer {
     private Music music;
 
